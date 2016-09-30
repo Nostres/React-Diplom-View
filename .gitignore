@@ -1,2 +1,4 @@
 .idea
+web/target
 web/node_modules
+npm-debug.log
