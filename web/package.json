@@ -24,8 +24,8 @@
     "webpack-dev-server": "*"
   },
   "scripts": {
-    "server": "webpack-dev-server --config webpack.config.js --inline --progress --colors --watch",
-    "start": "npm run server"
+    "server:dev": "webpack-dev-server --config webpack.config.js --inline --progress --colors --watch",
+    "start": "npm run server:dev"
   },
   "author": "Ivan Borsuk",
   "license": "ISC"
